@@ -11,6 +11,7 @@ import { CustomerComponent } from './components/customer/customer.component';
 import { RentalComponent } from './components/rental/rental.component';
 import { NaviComponent } from './components/navi/navi.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
